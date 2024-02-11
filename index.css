@@ -84,7 +84,7 @@
         display: none;
     }
     #check:checked ~ ul{
-        transition: .10s;
+        transition: .5s ease-in-out;
         top: 0;
     }
     .nav2{
